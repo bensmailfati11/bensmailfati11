@@ -48,54 +48,80 @@
   </svg>
 </div>
 
-Salut ! Je suis Fatima Zahra — développeuse web front-end passionnée par les interfaces modernes, l'expérience utilisateur et les détails qui rendent une application agréable à utiliser. J'aime construire des expériences rapides, accessibles et élégantes.
+Salut ! Je suis Fatima Zahra — développeuse web front‑end. J'aime transformer des idées en interfaces claires et agréables à utiliser. Je porte une attention particulière à l'accessibilité, la performance et aux micro‑interactions qui donnent vie à un produit.
 
-- 🔭 Je travaille actuellement sur : améliorer l'accessibilité et les performances de mes projets personnels.
-- 🌱 J'apprends : animation 3D légère avec Three.js et bonnes pratiques d'architecture front-end.
-- ⚡ Centres d'intérêt : UI/UX, optimisation, animations, automatisation des workflows développeur.
+Ce README est une version plus personnelle de mon profil : il présente qui je suis, ce que je fais, comment je travaille et comment me contacter.
+
+- 🔭 Actuellement : j'améliore l'accessibilité et la performance de mes projets personnels, et je retravaille mon portfolio pour mieux montrer mes animations et petits prototypes.
+- 🌱 En apprentissage : Three.js pour des animations 3D légères, et meilleures pratiques d'architecture front-end (modularité, tests, CI).
+- ⚡ Intérêts : UI/UX, motion design, optimisation, automatisation des workflows développeur, et petites touches visuelles qui améliorent l'expérience.
 
 ---
 
-## 🧩 Compétences
+## 🧩 À propos de mes compétences
+
+Je construis des interfaces modernes en privilégiant la simplicité, la robustesse et l'accessibilité.
 
 - Langages : JavaScript (ES6+), TypeScript, HTML, CSS  
-- Front-end : React, Vite, Tailwind CSS, Framer Motion  
-- 3D / Visuels : Three.js (notions)  
-- Outils : Git, GitHub, NPM, VS Code  
-- Intégrations : EmailJS, API REST
+- Frameworks & libs : React, Vite, Tailwind CSS, Framer Motion  
+- Graphismes & 3D : Three.js (notions), SVG animé (SMIL)  
+- Outils : Git, GitHub, NPM/Yarn, VS Code, Lighthouse  
+- Intégrations/API : REST API, EmailJS, services externes (analytics, forms)
+
+Je veille à :
+- des temps de chargement raisonnables (lazy-loading, optimisation des assets),
+- une sémantique HTML correcte pour l'accessibilité,
+- des animations subtiles qui renforcent l'UX sans nuire aux performances.
 
 ---
 
 ## 🔭 Projets en vedette
 
-- [portfolio](https://github.com/bensmailfati11/portfolio) — Mon site personnel / vitrine (en cours d'amélioration)  
-- (Ajoutez ici d'autres dépôts que vous souhaitez mettre en avant)
+- portfolio — Mon site personnel / vitrine (https://github.com/bensmailfati11/portfolio)  
+  Statut : en cours d'amélioration — objectif : montrer des cas pratiques, animations et démos interactives.
+
+Ajoute ici d'autres projets que tu veux mettre en avant (librairies, templates, démos d'animations, etc.). Si tu veux, je peux lister automatiquement les repos publics les plus pertinents et les classer par technologie.
 
 ---
 
-## ✨ Animation CSS / alternatives
+## 🛠️ Workflow & bonnes pratiques
 
-Remarques techniques :
-- GitHub strips <style> et la plupart des @keyframes dans les README, donc les animations CSS classiques (définies dans <style> ou via @keyframes) ne fonctionnent pas dans le rendu.  
-- J'ai utilisé des SVG animés (SMIL) qui fonctionnent bien dans les README et sont légers.  
-- Si tu préfères une animation spécifique (GIF, Lottie via un lien, ou une animation SVG différente), je peux la remplacer ou ajouter un visuel animé provenant d'un service externe.
-
-Si tu veux voir un exemple d'animation CSS (pour usage dans un site réel, pas le README), je peux inclure un extrait CSS + HTML que tu pourras coller dans ton projet. Dis "montre CSS" et je te fournis le code prêt à l'emploi.
-
----
-
-## 📫 Contact
-
-- Email : fatimazahra@example.com (remplace par ton adresse réelle ou écris "pas d'email")  
-- LinkedIn : https://www.linkedin.com/in/votre-profil (remplace par ton URL)  
-- Twitter / X : @votre_compte (optionnel)
+Voici comment j'aime travailler sur un projet :
+- prototypage rapide (Figma / maquettes légères) → composant par composant en React,
+- styling utilitaire (Tailwind) pour la cohérence et la vélocité,
+- animation progressive (Framer Motion / CSS / SVG) — toujours testée sans animations pour l'accessibilité,
+- CI légère (lint, build, tests basiques) avant chaque PR.
 
 ---
 
-## ✅ Comment m'aider / contribuer
+## ✨ Notes techniques sur les animations dans le README
 
-- Signale des bugs ou propose des améliorations via les issues des dépôts.  
-- Pour contribuer, ouvre une PR avec une description claire — je regarderai rapidement.
+Petite info utile : GitHub supprime la plupart des <style> et @keyframes dans les README. C'est pourquoi :
+- j'utilise des SVG animés (SMIL) — ils s'affichent bien dans les README et restent performants,
+- si tu préfères GIF / Lottie / web-embeds, je peux ajouter des visuels externes ou indiquer comment intégrer une version adaptée pour un site web.
+
+Si tu veux voir un exemple d'animation CSS à coller dans un site réel, dis "montre CSS" et je fournis le snippet prêt à l'emploi.
+
+---
+
+## 📫 Contact & liens
+
+Remplace les placeholders ci‑dessous par tes coordonnées réelles pour que je puisse les pousser dans le README (ou dis-moi si tu veux que je le fasse directement) :
+
+- Email : fatimazahra@example.com
+- Portfolio : https://github.com/bensmailfati11/portfolio
+- LinkedIn : https://www.linkedin.com/in/votre-profil
+- Twitter / X : @votre_compte
+
+Tu peux aussi me contacter via GitHub (issues / discussions / PR) — c'est la voie que je préfère pour les contributions techniques.
+
+---
+
+## ✅ Comment contribuer
+
+- Signale un bug ou propose une amélioration via une issue.
+- Ouvre une PR avec une description claire et un petit guide pour tester la modification.
+- Pour de petites corrections (typos, liens), une PR simple suffit — je merge rapidement si tout est OK.
 
 ---
 
@@ -105,10 +131,4 @@ MIT License © Fatima Zahra Bensmail
 
 ---
 
-Si tu veux :
-- que je remplace les placeholders (email / LinkedIn / Twitter) par tes vraies coordonnées,  
-- que j'ajoute d'autres projets dans "Projets en vedette",  
-- que je crée une version anglaise,  
-- ou que je fasse le commit directement sur la branche main ou une nouvelle branche (dis le nom),
-
-dis-moi et je m'occupe de la suite.
+Si tu veux que je personnalise encore plus ce README (remplacer les placeholders, ajouter une version anglaise, inclure des captures d'écran, ou commit direct sur main ou une branche nommée), dis le nom des éléments à remplacer et la branche — je peux préparer le commit et l'ouvrir en PR si tu veux.
