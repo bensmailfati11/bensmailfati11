@@ -1,134 +1,205 @@
-# Bonjour 👋 — Fatima Zahra Bensmail (bensmailfati11)
-
 <div align="center">
-  <!-- Animated SVG banner : gradient + subtle floating -->
-  <svg width="90%" height="160" viewBox="0 0 900 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Fatima Zahra Bensmail">
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#7b2ff7">
-          <animate attributeName="stop-color" values="#7b2ff7;#ff6b6b;#7b2ff7" dur="6s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#ff6b6b">
-          <animate attributeName="stop-color" values="#ff6b6b;#ffd166;#ff6b6b" dur="6s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
 
-      <!-- small floating animation for the subtitle -->
-      <g id="float">
-        <animateTransform attributeName="transform" type="translate" values="0 0; 0 6; 0 0" dur="4s" repeatCount="indefinite" />
-      </g>
-    </defs>
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Fatima%20Zahra%20Bensmail&fontSize=60&animation=fadeIn&fontAlignY=35)
 
-    <rect width="100%" height="100%" rx="12" fill="#0b1220" opacity="0.06"/>
+<h3>💻 Développeuse Web Junior | MERN Stack Enthusiast</h3>
 
-    <text x="50%" y="56" font-family="Helvetica, Arial, sans-serif" font-size="36" font-weight="700" text-anchor="middle" fill="url(#grad)">
-      Fatima Zahra Bensmail
-    </text>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;Python+%26+Flask+Developer;Passionate+about+Clean+Code;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
-    <!-- subtitle with floating -->
-    <g transform="translate(0,0)">
-      <text x="50%" y="100" font-family="Inter, Helvetica, Arial" font-size="16" text-anchor="middle" fill="#94a3b8" opacity="0.95">
-        <tspan>Développeuse Front‑end · UI/UX · Animations</tspan>
-      </text>
-      <!-- attach small floating envelope to the right -->
-      <g transform="translate(560,70)">
-        <g>
-          <rect x="-12" y="-10" width="24" height="18" rx="3" fill="#ffffff" opacity="0.06" />
-          <polyline points="-10,-8 0,0 10,-8" fill="none" stroke="#ffffff" stroke-width="1" opacity="0.12"/>
-        </g>
-        <!-- subtle up-down float -->
-        <animateTransform attributeName="transform" type="translate" values="0 0; 0 4; 0 0" dur="3s" repeatCount="indefinite" />
-      </g>
-    </g>
+<p>
+  <a href="https://portfolio-eight-nu-v0qypdvlqi.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=vercel" alt="Portfolio">
+  </a>
+  <a href="mailto:bensmail.fatimazahra.pro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/bensmailfati11">
+    <img src="https://img.shields.io/github/followers/bensmailfati11?label=Follow&style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+</p>
 
-    <!-- subtle shimmer line -->
-    <rect x="120" y="120" width="660" height="4" rx="2" fill="url(#grad)" opacity="0.06">
-      <animate attributeName="x" values="120;120;120" dur="6s" repeatCount="indefinite" />
-    </rect>
-  </svg>
 </div>
 
-Salut ! Je suis Fatima Zahra — développeuse web front‑end. J'aime transformer des idées en interfaces claires et agréables à utiliser. Je porte une attention particulière à l'accessibilité, la performance et aux micro‑interactions qui donnent vie à un produit.
+---
 
-Ce README est une version plus personnelle de mon profil : il présente qui je suis, ce que je fais, comment je travaille et comment me contacter.
+## 🙋‍♀️ À Propos de Moi
 
-- 🔭 Actuellement : j'améliore l'accessibilité et la performance de mes projets personnels, et je retravaille mon portfolio pour mieux montrer mes animations et petits prototypes.
-- 🌱 En apprentissage : Three.js pour des animations 3D légères, et meilleures pratiques d'architecture front-end (modularité, tests, CI).
-- ⚡ Intérêts : UI/UX, motion design, optimisation, automatisation des workflows développeur, et petites touches visuelles qui améliorent l'expérience.
+```javascript
+const fatimaZahra = {
+    location: "Casablanca, Maroc 🇲🇦",
+    role: "Développeuse Web Junior",
+    education: "Développement Web Full Stack",
+    languages: ["JavaScript", "Python", "TypeScript", "HTML", "CSS"],
+    frameworks: {
+        frontend: ["React", "Tailwind CSS", "Three.js", "Framer Motion"],
+        backend: ["Node.js", "Express", "Flask"],
+        databases: ["MongoDB", "SQLite"]
+    },
+    currentFocus: "Building interactive web applications with modern tech stacks",
+    lookingFor: "Opportunités de collaboration et d'apprentissage",
+    funFact: "J'aime créer des expériences web immersives avec des animations 3D ✨"
+};
+```
 
 ---
 
-## 🧩 À propos de mes compétences
+## 🚀 Mes Projets Phares
 
-Je construis des interfaces modernes en privilégiant la simplicité, la robustesse et l'accessibilité.
-
-- Langages : JavaScript (ES6+), TypeScript, HTML, CSS  
-- Frameworks & libs : React, Vite, Tailwind CSS, Framer Motion  
-- Graphismes & 3D : Three.js (notions), SVG animé (SMIL)  
-- Outils : Git, GitHub, NPM/Yarn, VS Code, Lighthouse  
-- Intégrations/API : REST API, EmailJS, services externes (analytics, forms)
-
-Je veille à :
-- des temps de chargement raisonnables (lazy-loading, optimisation des assets),
-- une sémantique HTML correcte pour l'accessibilité,
-- des animations subtiles qui renforcent l'UX sans nuire aux performances.
-
----
-
-## 🔭 Projets en vedette
-
-- portfolio — Mon site personnel / vitrine (https://github.com/bensmailfati11/portfolio)  
-  Statut : en cours d'amélioration — objectif : montrer des cas pratiques, animations et démos interactives.
-
-Ajoute ici d'autres projets que tu veux mettre en avant (librairies, templates, démos d'animations, etc.). Si tu veux, je peux lister automatiquement les repos publics les plus pertinents et les classer par technologie.
-
----
-
-## 🛠️ Workflow & bonnes pratiques
-
-Voici comment j'aime travailler sur un projet :
-- prototypage rapide (Figma / maquettes légères) → composant par composant en React,
-- styling utilitaire (Tailwind) pour la cohérence et la vélocité,
-- animation progressive (Framer Motion / CSS / SVG) — toujours testée sans animations pour l'accessibilité,
-- CI légère (lint, build, tests basiques) avant chaque PR.
-
----
-
-## ✨ Notes techniques sur les animations dans le README
-
-Petite info utile : GitHub supprime la plupart des <style> et @keyframes dans les README. C'est pourquoi :
-- j'utilise des SVG animés (SMIL) — ils s'affichent bien dans les README et restent performants,
-- si tu préfères GIF / Lottie / web-embeds, je peux ajouter des visuels externes ou indiquer comment intégrer une version adaptée pour un site web.
-
-Si tu veux voir un exemple d'animation CSS à coller dans un site réel, dis "montre CSS" et je fournis le snippet prêt à l'emploi.
-
----
-
-## 📫 Contact & liens
-
-Remplace les placeholders ci‑dessous par tes coordonnées réelles pour que je puisse les pousser dans le README (ou dis-moi si tu veux que je le fasse directement) :
-
-- Email : fatimazahra@example.com
-- Portfolio : https://github.com/bensmailfati11/portfolio
-- LinkedIn : https://www.linkedin.com/in/votre-profil
-- Twitter / X : @votre_compte
-
-Tu peux aussi me contacter via GitHub (issues / discussions / PR) — c'est la voie que je préfère pour les contributions techniques.
-
----
-
-## ✅ Comment contribuer
-
-- Signale un bug ou propose une amélioration via une issue.
-- Ouvre une PR avec une description claire et un petit guide pour tester la modification.
-- Pour de petites corrections (typos, liens), une PR simple suffit — je merge rapidement si tout est OK.
-
----
-
-## 📄 Licence
-
-MIT License © Fatima Zahra Bensmail
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Task Manager PFE</h3>
+      <br>
+      <a href="https://github.com/bensmailfati11/TaskManagerPFE" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bensmailfati11&repo=TaskManagerPFE&theme=tokyonight" alt="Task Manager" width="100%">
+      </a>
+      <br>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+      </p>
+      <p align="center">Application de gestion de tâches avec calendrier intégré. Développée lors de mon stage de fin d'études.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Events Organizer API</h3>
+      <br>
+      <a href="https://github.com/bensmailfati11/Event-Organizer-API" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bensmailfati11&repo=Event-Organizer-API&theme=tokyonight" alt="Events API" width="100%">
+      </a>
+      <br>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+      </p>
+      <p align="center">API REST complète avec authentification JWT et gestion de rôles (Admin/Organizer/Member).</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">AI Chatbot</h3>
+      <br>
+      <a href="https://github.com/bensmailfati11/geeks-institute/tree/master/week_3/day_3/chatbot_project" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bensmailfati11&repo=geeks-institute&theme=tokyonight" alt="Chatbot" width="100%">
+      </a>
+      <br>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+        <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+      </p>
+      <p align="center">Chatbot intelligent propulsé par l'API OpenRouter avec interface conversationnelle moderne.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Portfolio 3D</h3>
+      <br>
+      <a href="https://github.com/bensmailfati11/portfolio" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bensmailfati11&repo=portfolio&theme=tokyonight" alt="Portfolio" width="100%">
+      </a>
+      <br>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white">
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+      </p>
+      <p align="center">Portfolio interactif avec animations 3D, modèles Three.js et formulaire de contact EmailJS.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-Si tu veux que je personnalise encore plus ce README (remplacer les placeholders, ajouter une version anglaise, inclure des captures d'écran, ou commit direct sur main ou une branche nommée), dis le nom des éléments à remplacer et la branche — je peux préparer le commit et l'ouvrir en PR si tu veux.
+## 💻 Stack Technique
+
+<div align="center">
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,threejs,vite" />
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,flask,sqlite" />
+</p>
+
+### Outils & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
+</p>
+
+</div>
+
+---
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bensmailfati11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bensmailfati11&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bensmailfati11&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bensmailfati11&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🎓 Formation & Certifications
+
+```mermaid
+timeline
+    title Mon Parcours de Développement
+    2022 : Agent Centre d'Appel - HM Phoning
+    2023 : Vendeuse & Modèle - nisaturc
+    2023 : Stage Fin d'Études MERN - Coding Republic
+    2024 : Bootcamps Développement Web
+    2024 : 2 Hackathons - Geeks Institute Formation
+    2025 : Développeuse Web Junior - Open to Opportunities
+```
+
+**🏆 Formations & Bootcamps**
+- ✅ Développement Web Full Stack
+- ✅ MERN Stack (MongoDB, Express, React, Node.js)
+- ✅ Python & Flask
+- ✅ 2 Hackathons (Geeks Institute Formation)
+- ✅ Méthodologie Agile & Git
+
+---
+
+## 📫 Me Contacter
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eight-nu-v0qypdvlqi.vercel.app)
+[![Email](https://img.shields.io/badge/Email-bensmail.fatimazahra.pro@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bensmail.fatimazahra.pro@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-bensmailfati11-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bensmailfati11)
+
+<br>
+
+**💼 Ouverte aux opportunités de collaboration et d'apprentissage !**
+
+---
+
+### 📈 Activité Récente
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=bensmailfati11&label=Profile%20Views&color=6366f1&style=flat" alt="Profile Views" />
+
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
