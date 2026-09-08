@@ -28,7 +28,7 @@
 const fatimaZahra = {
     location: "Casablanca, Maroc 🇲🇦",
     role: "Développeuse Web Junior",
-    education: "Développement Web Full Stack",
+    education: "Développement Web Full Stack — Formation de 8 mois (2025-2026), attestation obtenue",
     languages: ["JavaScript", "Python", "TypeScript", "HTML", "CSS"],
     frameworks: {
         frontend: ["React", "Tailwind CSS", "Three.js", "Framer Motion"],
@@ -160,17 +160,22 @@ timeline
     title Mon Parcours de Développement
     2022 : Agent Centre d'Appel - HM Phoning
     2023 : Vendeuse & Modèle - nisaturc
-    2023 : Stage Fin d'Études MERN - Coding Republic
-    2024 : Bootcamps Développement Web
+    2023 : Stage de Fin d'Études MERN - Coding Republic
+    2024 : Bootcamp Développement Web
     2024 : 2 Hackathons - Geeks Institute Formation
     2025 : Développeuse Web Junior - Open to Opportunities
+    2026 : Formation Développement Web Full Stack - 8 mois
+    2026 : Attestation de Formation obtenue
+    2026 : OpenAI Codex Hackathon - 1ère édition en Afrique du Nord
 ```
 
-**🏆 Formations & Bootcamps**
-- ✅ Développement Web Full Stack
+**🏆 Formations & Certifications**
+- ✅ Développement Web Full Stack — Formation intensive de 8 mois (2025-2026)
+- ✅ Attestation de formation obtenue en 2026
 - ✅ MERN Stack (MongoDB, Express, React, Node.js)
 - ✅ Python & Flask
-- ✅ 2 Hackathons (Geeks Institute Formation)
+- ✅ 2 Hackathons — Geeks Institute Formation
+- 🏆 OpenAI Codex Hackathon — 1ère édition en Afrique du Nord (29 août 2026)
 - ✅ Méthodologie Agile & Git
 
 ---
