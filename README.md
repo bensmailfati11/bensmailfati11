@@ -161,21 +161,23 @@ timeline
     2022 : Agent Centre d'Appel - HM Phoning
     2023 : Vendeuse & Modèle - nisaturc
     2023 : Stage de Fin d'Études MERN - Coding Republic
-    2024 : Bootcamp Développement Web
-    2024 : 2 Hackathons - Geeks Institute Formation
-    2025 : Développeuse Web Junior - Open to Opportunities
-    2026 : Formation Développement Web Full Stack - 8 mois
+    2024 : IT en Santé Publique - Direction Régionale de la Santé et de la Protection Sociale
+    2025 : 1er Hackathon - Mai 2025
+    2025 : Hackathon ESSEC - Novembre 2025
+    2025-2026 : Formation Développement Web Full Stack - 8 mois
     2026 : Attestation de Formation obtenue
     2026 : OpenAI Codex Hackathon - 1ère édition en Afrique du Nord
 ```
 
-**🏆 Formations & Certifications**
-- ✅ Développement Web Full Stack — Formation intensive de 8 mois (2025-2026)
-- ✅ Attestation de formation obtenue en 2026
+**🏆 Formations, Expériences & Certifications**
+- 🏥 **IT en Santé Publique** — Direction Régionale de la Santé et de la Protection Sociale (2024 - Présent)
+- ✅ **Formation Développement Web Full Stack — 8 mois** (2025-2026)
+- 🎓 **Attestation de formation obtenue en 2026**
 - ✅ MERN Stack (MongoDB, Express, React, Node.js)
 - ✅ Python & Flask
-- ✅ 2 Hackathons — Geeks Institute Formation
-- 🏆 OpenAI Codex Hackathon — 1ère édition en Afrique du Nord (29 août 2026)
+- 🏆 **1er Hackathon — Mai 2025**
+- 🏆 **Hackathon ESSEC — Novembre 2025**
+- 🏆 **OpenAI Codex Hackathon — 1ère édition en Afrique du Nord** (29 août 2026)
 - ✅ Méthodologie Agile & Git
 
 ---
